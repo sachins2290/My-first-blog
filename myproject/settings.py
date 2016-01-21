@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'myproject',
         'USER': 'myprojectuser',
         'PASSWORD': 'password',
-        'HOST': 'localhost',
+        'HOST': '',
         'PORT': '',
     }
 }
